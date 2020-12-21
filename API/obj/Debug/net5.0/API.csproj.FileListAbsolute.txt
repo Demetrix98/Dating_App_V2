@@ -65,3 +65,5 @@ C:\Users\krzyc\Desktop\Programowanie\New_Chapter\Net_Core_Angular\DattingAppV2\A
 C:\Users\krzyc\Desktop\Programowanie\New_Chapter\Net_Core_Angular\DattingAppV2\API\bin\Debug\net5.0\Data\UserSeedData.json
 C:\Users\krzyc\Desktop\Programowanie\New_Chapter\Net_Core_Angular\DattingAppV2\API\bin\Debug\net5.0\AutoMapper.dll
 C:\Users\krzyc\Desktop\Programowanie\New_Chapter\Net_Core_Angular\DattingAppV2\API\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\krzyc\Desktop\Programowanie\New_Chapter\Net_Core_Angular\DattingAppV2\API\bin\Debug\net5.0\CloudinaryDotNet.dll
+C:\Users\krzyc\Desktop\Programowanie\New_Chapter\Net_Core_Angular\DattingAppV2\API\bin\Debug\net5.0\Newtonsoft.Json.dll
